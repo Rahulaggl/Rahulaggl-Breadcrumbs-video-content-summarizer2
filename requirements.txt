@@ -4,7 +4,6 @@ ibm-watson==5.4.0
 ibm-cloud-sdk-core==3.18.0
 ibm-watsonx-ai==0.1.0
 requests==2.31.0
-numpy==1.23.6
 pillow==9.4.0
 tornado==6.2
 python-dotenv==1.0.0
